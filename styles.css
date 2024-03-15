@@ -52,9 +52,11 @@ body {
     padding-top: 20px;
 }
 
+.form-fill {
+    display: inline-block;
+}
+
 .form-fill label {
+    display:block;
     padding-left: 20px;
-    padding-top: 100px;
-    display: flex;
-    flex-direction: column;
 }
