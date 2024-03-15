@@ -1,3 +1,10 @@
+.left-image {
+    width: 40%
+}
+
 .left-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 40%;
 }
