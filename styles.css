@@ -5,6 +5,10 @@
     outline: 0;
 }
 
+body {
+    font-family: sans-serif, Helvetica;
+}
+
 .background-image {
     width: 40%;
     height: 100%;
@@ -18,4 +22,5 @@
     position: absolute;
     bottom: 36px;
     left: 16px;
+    color: white;
 }
