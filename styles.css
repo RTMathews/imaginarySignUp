@@ -13,3 +13,9 @@
 .container {
     display: flex;
 }
+
+.bottom-left-text {
+    position: absolute;
+    bottom: 36px;
+    left: 16px;
+}
