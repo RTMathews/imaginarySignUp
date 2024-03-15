@@ -1,10 +1,4 @@
-.left-image {
-    width: 40%
-}
-
-.left-wrapper {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+.background-image {
     width: 40%;
+    height: 100%;
 }
