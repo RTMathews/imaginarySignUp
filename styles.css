@@ -72,6 +72,9 @@ body {
 }
 
 .bottom-field {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
     background-color: #FAFAFA;
     margin-top: 50px;
     padding-left: 20px;
@@ -80,6 +83,10 @@ body {
 .form-fill input:focus {
     border: 3px solid blue;
     box-shadow: 1px 1px 1px black;
+}
+
+.form-fill input:invalid {
+    background-color: solid red;
 }
 
 .bottom-field input[type="submit"]{
