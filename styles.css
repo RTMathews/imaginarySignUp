@@ -46,8 +46,7 @@ body {
     background-color: #F1F0F0;
     border-radius: 3px;
     border: 1px solid black;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin-left: 200px;
 }
 
 .form-text {
@@ -62,5 +61,6 @@ body {
 .form-fill label {
     display:block;
     padding-left: 20px;
-    margin-top: 30px;
+    margin-top: 100px;
+    margin-left: 180px;
 }
